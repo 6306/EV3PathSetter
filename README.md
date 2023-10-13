@@ -4,6 +4,7 @@
 <br>
 <h2>Setting Up Before Usage</h2>
 <p>EV3 Path Setter requires some libraries that does not come with python to work correctly.</p>
+<p>You will need to install <a href="https://github.com/pybluez/pybluez">pybluez</a> in order to get bluetooth working.</p>
 <p>You will need a EV3 running custom "firmware" which is ev3dev which is only obtainable at <a href="https://www.ev3dev.org/">ev3dev.org</p>
 <p>You will also need a 4GB (up to 32GB) Micro SD CARD for the custom "firmware" since it only runs on a SD CARD meaning it will keep the original firmware intacted. </p>
 <p>For more infomation on how to setup ev3dev, please visit the <a href="https://assets.education.lego.com/v3/assets/blt293eea581807678a/bltb470b9ea6e38f8d4/5f8802fc4376310c19e33714/getting-started-with-micropython-v2_enus.pdf?locale=en-us">Getting Started</a> from LEGO.</p>
